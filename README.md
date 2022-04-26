@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahriar Ahmed Shawon
 - 👀 I’m interested in Web development Sector
-- 🌱 I’m currently working with laravel
+- 🌱 I’m currently working with PHP, laravel, Yii2, Wordpress
 - 💞️ I’m looking to collaborate some big projects
 - 📫 Reach me sashawon60@gmail.com
